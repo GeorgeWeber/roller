@@ -1,0 +1,13 @@
+name: packaging
+channels:
+  - leriomaggio
+  - defaults
+dependencies:
+  - ipython=8.12.0=py310haa95532_0
+  - matplotlib-inline=0.1.6=py310haa95532_0
+  - nomoji=0.0.5=py_0
+  - pip=23.0.1=py310haa95532_0
+  - pytest=7.1.2=py310haa95532_0
+  - python=3.10.10=h966fe2a_2
+  - tabulate=0.8.10=py310haa95532_0
+prefix: C:\Users\george\anaconda3\envs\packaging
